@@ -1,4 +1,4 @@
-# KAIST SILab
+# KAIST SILAB
 ## Systems Intelligence Lab @ Industrial & Systems Engineering, KAIST
 
 
